@@ -12,7 +12,7 @@ train_tweet.csv & test_tweets.csv: These CSV files contain the dataset used in t
 twitter_sentiment.py: A Python script that provides an automated way to apply the sentiment analysis model to new tweet data. It includes functions for data loading, model application, and result output.  
 
 
-##Exploratory Notebooks
+## Exploratory Notebooks
 
 These notebooks explore various other NLP tasks, using different datasets and NLP tools to provide insights into the capabilities and comparisons of different approaches.
 
